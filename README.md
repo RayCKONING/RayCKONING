@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Ray 👋 — Frontend Developer & Product Designer
 
-<!--
-**RayCKONING/RayCKONING** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I design in Figma and ship it in React — no handoff gap.
+12+ years across SaaS, healthcare, and e-commerce.
 
-Here are some ideas to get you started:
+🔒 Most of my production frontend lives in private client repos (Bitbucket, under NDA) —
+   work for teams like Boeing, Cisco, ASU, Walmart, and Rooster Tracking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Shipped React products (design + build):**
+- 🏥 **EMR Hospitality** — full healthcare product UI, built in React, WCAG 2.1
+- 🅿️ **ACCESS Parking App** — mobile app, Figma → React, prototype to production
+- 📊 **N-Gauges (COVID-19)** — public-health data dashboard, React
+
+**Stack:** React · Next.js · TypeScript · Tailwind · Figma · WCAG 2.1
+**Portfolio:** [Behance](https://www.behance.net/raymundoMarqueda) ·
+**Connect:** [LinkedIn](https://www.linkedin.com/in/raymundo-marqueda-8670b5106/)
