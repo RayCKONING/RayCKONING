@@ -3,7 +3,7 @@
 I design in Figma and ship it in React — no handoff gap.
 12+ years across SaaS, healthcare, and e-commerce.
 
-🔒 Most of my production frontend lives in private client repos (Bitbucket, under NDA) —
+🔒 Most of my production frontend lives in private client repos (Bitbucket and GitLab, under NDA) —
    work for teams like JLD, Target, Best Buy, Boeing, Cisco, ASU, Walmart, and Rooster Tracking.
 
 **Shipped React products (design + build):**
