@@ -1,6 +1,6 @@
 ### Hi, I'm Ray 👋 — Frontend Developer & Product Designer
 
-I design in Figma and ship it in React — no handoff gap.
+I design in Figma (as in many other design tools) and ship it in React — no handoff gap.
 12+ years across SaaS, healthcare, and e-commerce.
 
 🔒 Most of my production frontend lives in private client repos (Bitbucket and GitLab, under NDAs) —
